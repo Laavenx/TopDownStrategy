@@ -1,4 +1,5 @@
-# Test project for Unreal Engine 5.3
+# Description
+Recruitment task project for Unreal Engine 5.3 showcasing camera control in top down strategy game and a simple combat system with 3 different types of AI enemies.
 
 ## Controls
 
